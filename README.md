@@ -46,7 +46,7 @@ estoque/
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/StockBuddy.git
+   git clone https://github.com/ryanmosc/StockBuddy.git
    cd StockBuddy/estoque
    ```
 
@@ -97,4 +97,4 @@ Fique à vontade para abrir **Issues** ou enviar **Pull Requests**.
 
 ## 📢 Autor
 
-Desenvolvido por [Seu Nome].
+Desenvolvido por [Ryan Moscardini].
