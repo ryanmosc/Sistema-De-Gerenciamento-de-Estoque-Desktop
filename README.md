@@ -46,8 +46,8 @@ estoque/
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/ryanmosc/StockBuddy.git
-   cd StockBuddy/estoque
+   git clone https://github.com/ryanmosc/StockBuddy.git](https://github.com/ryanmosc/Sistema-De-Gerenciamento-de-Estoque-Desktop
+  
    ```
 
 2. (Opcional) Crie um ambiente virtual:
